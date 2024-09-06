@@ -6,6 +6,6 @@ Meu nome é Roberta Macan
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Vocẽ entrar em contato comigo  📫
+- ### Você entrar em contato comigo  📫
 
 - roberta.macan.oliveira@escola.pr.gov.br
